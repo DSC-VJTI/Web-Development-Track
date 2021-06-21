@@ -7,11 +7,12 @@
 - [Week 2](https://docs.google.com/document/d/1bzBV2V0ZbLpnAuTvFY9dsr9Jw4yGP6qDJq7Vozna7a4/edit?usp=sharing)
 - [Week 3](https://docs.google.com/document/d/1efNJTgylWVffenuzLcEVW-A9QE4iPo7j5ApPn1_r1Hs/edit?usp=sharing)
 - [Week 4](https://docs.google.com/document/d/1XeyJ7Bwbr41CC05I-KZU9BVk5nDN4ycwd5l-_dIJtCk/edit?usp=sharing)
-- Later weeks' materials coming soon...
+- [Week 5](https://docs.google.com/document/d/1L-BFRNxbZgoUepKLRw0H78SML5bJt7CDCD1Of4QAODo/edit?usp=sharing)
 
 ## Quizzes
 - [Quiz 1](https://forms.gle/yu63hnKJ8rYR3HaKA)
 - [Quiz 2](https://forms.gle/jjEjQ3fU6JdUJ8fz9)
+- [Quiz 3](https://forms.gle/Ntx9Sw3FnPXRqW6U8)
 
 ## Tasks
 - Design a blogging site with 1 landing page and 2 blog pages (based on the materials given untill week 2)
