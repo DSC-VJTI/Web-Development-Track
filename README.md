@@ -14,7 +14,6 @@
 - [Quiz 2](https://forms.gle/jjEjQ3fU6JdUJ8fz9)
 - [Quiz 3](https://forms.gle/Ntx9Sw3FnPXRqW6U8)
 
-## Tasks
-- Design a blogging site with 1 landing page and 2 blog pages (based on the materials given untill week 2)
+
 
 
